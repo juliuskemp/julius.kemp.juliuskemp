@@ -1,0 +1,55 @@
+ 1. git init
+Initializes a git repository – creates the initial ‘.git’ directory in a new or in an existing project. Example: cd /home/user/my_new_git_folder/ git init
+
+ 2. git add
+Adds files changes in your working directory to your index. Example: git add .
+ - git commit
+Takes all of the changes written in the index, creates a new commit object pointing to it and sets the branch to point to that new commit. Examples: git commit -m ‘committing added changes’ git commit -a -m ‘committing all changes, equals to git add and git commit’
+
+3. 
+
+4. 
+
+5. 
+
+6. to know what you have changed
+
+7.
+
+8.
+
+2.1 Git is a revision control system, a tool to manage your source code history. GitHub is a hosting service for Git repositories. So they are not the same thing: Git the tool, GitHub the service for projects that uses - Github could exist without git just not as evective??
+
+2.2 It has an awesome community
+
+2.3 git push
+Pushes all the modified local objects to the remote repository and advances its branches. Example: git push origin master
+
+2.4 git pull
+Fetches the files from the remote repository and merges it with your local one. This command is equal to the git fetch and the git merge sequence. Example: git pull origin
+
+ - git fetch
+Fetches all the objects from the remote repository that are not present in the local one. Example: git fetch origin
+
+ - git merge
+Merges one or more branches into your current branch and automatically creates a new commit if there are no conflicts. Example: git merge newbranchversion
+
+4.1 when you tipe a command into your browser
+
+4.2 when you tipe a command into your browser
+
+4.3 to a server 
+
+4.4 the request gets prosesed
+
+4.5 a webpage/file that was requested
+
+4.6 it shows on your screen
+
+5.1 an 404 error
+
+5.2 the server could not find what was requested
+
+5.3 there is no github site on that page
+
+5.4 no it does not
